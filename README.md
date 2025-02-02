@@ -9,7 +9,7 @@ I'm a passionate developer and tech enthusiast, always eager to learn and explor
 
 ## Currently Learning
 - 🌱 I’m currently learning:
-  - Python for data science.
+  - Python for data science and Web Development.
   - Machine learning libraries and frameworks like pytorch and scikit-learn.
   - DevOps practices and tools such as Docker, Ansible and Kubernetes.
 
