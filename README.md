@@ -17,7 +17,7 @@ I'm a passionate developer and tech enthusiast, always eager to learn and explor
 - 📫 You can reach me via:
   - Email: idris.david@lmu.com.com
   - LinkedIn: [Idris David](https://www.linkedin.com/in/david-idris-174222289/)
-  - Twitter: [@idrisdavid](https://x.com/nya_Yamusa)
+  - Twitter: [@Yamusa](https://x.com/mr_yamusa)
 
 ## GitHub Stats
 ![Idris's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrYamusa&show_icons=true&theme=radical)
