@@ -20,6 +20,9 @@ I'm an AI Engineer, always eager to learn and explore new technologies.
 
 ## GitHub Stats
 ![Idris's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrYamusa&show_icons=true&theme=radical)
+![mrYamusa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrYamusa&theme=vue-dark&hide_border=true)
+![mrYamusa's Stats](https://github-readme-stats.vercel.app/api?username=mrYamusa&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![mrYamusa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrYamusa&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
