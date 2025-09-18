@@ -1,21 +1,20 @@
 # Hi, I'm Idris👋
 
 ## About Me
-I'm a passionate developer and tech enthusiast, always eager to learn and explore new technologies.
+I'm an AI Engineer, always eager to learn and explore new technologies.
+
+## Tech Stack
+- ⛓️ Python (FastAPI, Django, Pytorch, Langchain, numpy and friends).
+- ⚡ Golang (Gin).
 
 ## Interests
 - 👀 I’m interested in DevOps, machine learning, and open-source projects.
 - 💡 I love working on innovative projects and collaborating with others in the tech community.
 
-## Currently Learning
-- 🌱 I’m currently learning:
-  - Python for data science and Web Development.
-  - Machine learning libraries and frameworks like pytorch and scikit-learn.
-  - DevOps practices and tools such as Docker, Ansible and Kubernetes.
 
 ## How to Reach Me
 - 📫 You can reach me via:
-  - Email: idris.david@lmu.com.com
+  - Email: idris.david@lmu.edu.ng
   - LinkedIn: [Idris David](https://www.linkedin.com/in/david-idris-174222289/)
   - Twitter: [@Yamusa](https://x.com/mr_yamusa)
 
