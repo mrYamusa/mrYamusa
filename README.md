@@ -19,9 +19,9 @@ I'm an AI Engineer, always eager to learn and explore new technologies.
   - Twitter: [@Yamusa](https://x.com/mr_yamusa)
 
 ## GitHub Stats
-![mrYamusa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrYamusa&theme=vue-dark&hide_border=true)
 ![mrYamusa's Stats](https://github-readme-stats.vercel.app/api?username=mrYamusa&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![mrYamusa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrYamusa&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![mrYamusa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrYamusa&theme=vue-dark&hide_border=true)
 
 ---
 
