@@ -1,15 +1,14 @@
 # Hi, I'm Idris👋
 
 ## About Me
-I'm an AI Engineer, always eager to learn and explore new technologies.
+I'm an Backend Engineer, always eager to learn and explore new technologies.
 
 ## Tech Stack
-- ⛓️ Python (FastAPI, Django, Pytorch, Langchain, numpy and friends).
-- ⚡ Golang (Gin).
+- ⛓️ Python (FastAPI, Pytorch, Langchain, numpy and friends).
+- ⚡ Golang (Gin, Hertz, Gorm, sqlc, pgx, and all that fun stuff).
 
 ## Interests
-- 👀 I’m interested in DevOps, machine learning, and open-source projects.
-- 💡 I love working on innovative projects and collaborating with others in the tech community.
+- 👀 I’m interested in DevOps - that's all for now.
 
 
 ## How to Reach Me
