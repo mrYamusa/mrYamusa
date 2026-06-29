@@ -1,7 +1,7 @@
 # Hi, I'm Idris👋
 
 ## About Me
-I'm an Backend Engineer, always eager to learn and explore new technologies.
+I'm a Backend Engineer, always eager to learn and explore new technologies.
 
 ## Tech Stack
 - ⛓️ Python (FastAPI, Pytorch, Langchain, numpy and friends).
